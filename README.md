@@ -5,7 +5,9 @@
 
 
 > [!WARNING]
-> This SDK is incubating and subject to change.
+> This SDK is incubating and subject to change. 
+> Palantir assumes no responsiblility for any reliance on these APIs or SDKs for long periods of time. 
+> Please be mindful of Hyrums Law
 
 
 An open-source python library for compute modules for performing tasks like service discovery, getting a token, external source credentials, etc
